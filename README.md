@@ -1,0 +1,1 @@
+PLAYWRIGHT e2e tests
